@@ -7,3 +7,4 @@ Bla Bla 20-05-2017 21:07
 
 
 Now I want to send this txt to my laptop 20-05-2017 23:29
+I want to Pull this from my Laptop....
